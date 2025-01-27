@@ -22,13 +22,17 @@ This repository contains my submission for the Data Science Intern assignment. I
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Divyanshu_DataScience_Assignment.git
+   git clone https://github.com/Anjali211003/Zeotap-assignment.git
    ```
 2. Navigate to the repository folder:
    ```bash
-   cd Divyanshu_DataScience_Assignment
+   cd Anjali_DataScience_Assignment
    ```
-3. Open the Jupyter notebooks to explore the code:
+3. Install the requirements:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Open the Jupyter notebooks to explore the code:
    ```bash
    jupyter notebook
    ```
