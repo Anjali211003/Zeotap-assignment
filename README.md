@@ -26,7 +26,7 @@ This repository contains my submission for the Data Science Intern assignment. I
    ```
 2. Navigate to the repository folder:
    ```bash
-   cd Divyanshu_DataScience_Assignment
+   cd Anjali_Zeotap_Assignment
    ```
 3. Open the Jupyter notebooks to explore the code:
    ```bash
